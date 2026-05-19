@@ -45,12 +45,16 @@ Currently studying **Computer Science / IT** at the master&apos;s level at **Dig
   <img alt="FlutterFlow" src="https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
-### Public Workspace Roadmap
+### Public Work
 
-- `document-ai-lab` - OCR, preprocessing, and document workflow experiments;
-- `data-workflow-utils` - parsing, cleaning, validation, and operational data tools;
-- `ai-product-prototypes` - compact product experiments around AI-assisted workflows;
-- `startup-research-toolkit` - templates and scripts for market and product analysis.
+| Repository | What it shows |
+| --- | --- |
+| [one-line-courier](https://github.com/skritosss/one-line-courier) | Unity mobile game concept, core loop design, product thinking |
+| [document-ai-lab](https://github.com/skritosss/document-ai-lab) | OCR, preprocessing, and document workflow experiments |
+| [data-workflow-utils](https://github.com/skritosss/data-workflow-utils) | parsing, cleaning, validation, and operational data utilities |
+| [ai-product-prototypes](https://github.com/skritosss/ai-product-prototypes) | compact AI workflow prototypes with product notes |
+| [startup-research-toolkit](https://github.com/skritosss/startup-research-toolkit) | market research, product analysis, and startup decision tooling |
+| [medai-case-study](https://github.com/skritosss/medai-case-study) | public AI product case study focused on architecture, process, and lessons learned |
 
 ### GitHub
 
