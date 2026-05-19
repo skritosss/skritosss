@@ -1,4 +1,4 @@
-### Hi, I&apos;m Aleksandr
+### Hi, I&apos;m Alex!
 
 IT / product specialist working at the intersection of **AI products**, **data workflows**, and **automation**. My background combines hands-on development, startup execution, grant-backed product work, market research, and business analysis.
 
