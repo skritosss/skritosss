@@ -8,7 +8,7 @@ Co-founder of **MedAI** - a medical AI application for specialized pediatric cli
 
 Currently studying **Computer Science / IT** at the master&apos;s level at **Digital Ural** and building practical depth across **Python · JavaScript / TypeScript · SQL · data analysis · ML basics**.
 
-🔗 [Email](mailto:shuv.aleksandr@icloud.com) · [Repositories](https://github.com/skritosss?tab=repositories)
+🔗 [Portfolio](https://skritosss.github.io) · [Email](mailto:shuv.aleksandr@icloud.com) · [Repositories](https://github.com/skritosss?tab=repositories)
 
 ---
 
@@ -49,12 +49,14 @@ Currently studying **Computer Science / IT** at the master&apos;s level at **Dig
 
 | Repository | What it shows |
 | --- | --- |
-| [one-line-courier](https://github.com/skritosss/one-line-courier) | Unity mobile game concept, core loop design, product thinking |
+| [portfolio](https://github.com/skritosss/skritosss.github.io) | project portfolio, selected work, and professional overview |
+| [medai-case-study](https://github.com/skritosss/medai-case-study) | public AI product case study focused on architecture, process, and lessons learned |
 | [document-ai-lab](https://github.com/skritosss/document-ai-lab) | OCR, preprocessing, and document workflow experiments |
 | [data-workflow-utils](https://github.com/skritosss/data-workflow-utils) | parsing, cleaning, validation, and operational data utilities |
 | [ai-product-prototypes](https://github.com/skritosss/ai-product-prototypes) | compact AI workflow prototypes with product notes |
 | [startup-research-toolkit](https://github.com/skritosss/startup-research-toolkit) | market research, product analysis, and startup decision tooling |
-| [medai-case-study](https://github.com/skritosss/medai-case-study) | public AI product case study focused on architecture, process, and lessons learned |
+
+Experimental side project: [one-line-courier](https://github.com/skritosss/one-line-courier).
 
 ### GitHub
 
