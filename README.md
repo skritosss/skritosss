@@ -4,7 +4,7 @@ IT / product specialist working at the intersection of **AI products**, **data w
 
 Co-founder experience across several grant-backed technology projects. Worked on products in **medical AI**, tourism, inclusive fitness, and consumer hardware concepts.
 
-Co-founder of **MedAI** - a medical AI application for doctors working with pediatric patients on immunosuppressive therapy. Contributed to product architecture, data analysis, partner communication, and grant work; also listed among authors of the registered MedAI software.
+Co-founder of **MedAI** - a medical AI application for specialized pediatric clinical workflows. Contributed to product architecture, data analysis, partner communication, and grant work; also listed among authors of the registered MedAI software.
 
 Currently studying **Computer Science / IT** at the master&apos;s level at **Digital Ural** and building practical depth across **Python · JavaScript / TypeScript · SQL · data analysis · ML basics**.
 
@@ -23,7 +23,7 @@ Currently studying **Computer Science / IT** at the master&apos;s level at **Dig
 
 | Project / Area | Role and contribution |
 | --- | --- |
-| **MedAI** | Co-founder; contributed to architecture and analytics for a medical AI application for pediatric immunosuppression workflows |
+| **MedAI** | Co-founder; contributed to architecture and analytics for a medical AI application for specialized pediatric clinical workflows |
 | **MyTourism** | Co-founder; worked on an AI-assisted leisure discovery product concept |
 | **Charity Workout** | Co-founder; participated in an inclusive fitness product for people with disabilities |
 | **EasyFind** | Co-founder; worked on a consumer tracker concept for the B2C market |
