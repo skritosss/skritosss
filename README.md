@@ -26,13 +26,14 @@ Currently studying **Computer Science / Engineering** at the master&apos;s level
 | **Founder / CEO work** | Product strategy, partnership development, grant-backed execution, team coordination, and operational planning |
 | **Project management / finance** | Market research, hospitality industry analysis, planning support, and business development research |
 | **International operations** | Camp leadership, participant coordination, educational program planning, and safety-focused team operations |
-| **Technical growth** | Python, JavaScript/TypeScript, SQL, C/C++, databases, AI/product workflows, and practical automation |
+| **Technical growth** | Python, JavaScript/TypeScript, SQL, C/C++, databases, OCR workflows, AI/product workflows, and practical automation |
 
 ### Selected Work
 
 | Project / Area | Role and contribution |
 | --- | --- |
 | **MedAI** | CEO / co-founder; contributed to architecture, analytics, product planning, partnerships, and grant work for a healthtech AI initiative |
+| **Engineering Drawing OCR** | Built part of an OCR workflow for recognizing text on technical drawings, including preprocessing, custom recognizer experiments, and evaluation notes |
 | **MamaDoc** | CTO / CFO role in an informational product for young parents and medical students |
 | **MyTourism** | Co-founder; worked on an AI-assisted leisure discovery product concept |
 | **Charity Workout** | Co-founder; participated in an inclusive fitness product for people with disabilities |
@@ -79,6 +80,7 @@ Currently studying **Computer Science / Engineering** at the master&apos;s level
 | --- | --- |
 | [portfolio](https://github.com/skritosss/skritosss.github.io) | project portfolio, selected work, and professional overview |
 | [medai-case-study](https://github.com/skritosss/medai-case-study) | public AI product case study focused on architecture, process, and lessons learned |
+| [engineering-drawing-ocr](https://github.com/skritosss/engineering-drawing-ocr) | limited-code OCR case study for technical drawings, preprocessing, and custom recognizer experiments |
 | [document-ai-lab](https://github.com/skritosss/document-ai-lab) | OCR, preprocessing, and document workflow experiments |
 | [data-workflow-utils](https://github.com/skritosss/data-workflow-utils) | parsing, cleaning, validation, and operational data utilities |
 | [ai-product-prototypes](https://github.com/skritosss/ai-product-prototypes) | compact AI workflow prototypes with product notes |
