@@ -12,6 +12,14 @@ Currently studying **Computer Science and Engineering** at the master's level at
 
 ---
 
+### Flagship Project
+
+| Project | What it demonstrates |
+| --- | --- |
+| [**Procedra — Industrial Instruction AI**](https://github.com/skritosss/procedra-industrial-ai) | A full-stack AI/product engineering prototype for generating review-ready industrial work instructions from task descriptions, documents, public sources, and video context. Shows practical AI workflow design, FastAPI/Pydantic backend engineering, RAG-style source grounding, video/keyframe processing, deterministic fallback, quality evaluation, role-aware review flow, execution evidence, audit trail, Docker packaging, tests, and production-readiness thinking. |
+
+Procedra is currently my strongest public engineering/product case: it connects applied AI, industrial workflow design, data/document processing, safety-aware product boundaries, and enterprise-style implementation discipline in one repository.
+
 ### Current Focus
 
 - AI-assisted product workflows, applied prototypes, and practical automation.
@@ -41,6 +49,7 @@ Currently studying **Computer Science and Engineering** at the master's level at
 
 | Repository | What it shows |
 | --- | --- |
+| [procedra-industrial-ai](https://github.com/skritosss/procedra-industrial-ai) | flagship industrial AI workflow prototype with source grounding, video context, quality evaluation, review workflow, audit trail, Docker, tests, and public case-study documentation |
 | [portfolio](https://github.com/skritosss/skritosss.github.io) | project portfolio, selected work, and professional overview |
 | [medai-case-study](https://github.com/skritosss/medai-case-study) | public AI product case study focused on architecture, process, privacy-aware product thinking, and lessons learned |
 | [startup-research-toolkit](https://github.com/skritosss/startup-research-toolkit) | market research, competitor analysis, opportunity scoring, and startup decision tooling |
