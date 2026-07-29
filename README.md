@@ -17,7 +17,7 @@ An AI system that turns operator requests, enterprise documents, public standard
 - Deterministic fallback that keeps the product fully usable without an external LLM.
 - Enterprise layer: 6 roles, organizations, projects, permission matrix, instruction versioning, review workflow, execution checklists, audit trail.
 - Security audit of my own system: found that adversarial context could be labelled as confirmed and score high. Introduced typed provenance, blocked model-supplied approval state, added explicit blockers for hazardous and poisoned-source cases.
-- Quality gate: 250 passing tests, clean mypy across 46 files, Ruff, Docker Compose, CI, and a 15-scenario pack for reproducible evaluation.
+- Quality gate: 318 passing tests, clean mypy across 46 files, Ruff, Docker Compose, CI, and a 15-scenario pack for reproducible evaluation.
 
 Working paper on SSRN, Abstract ID `7026918`.
 
