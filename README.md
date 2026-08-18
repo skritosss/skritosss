@@ -12,7 +12,7 @@ I came from the product and funding side: ~$76K in non-dilutive funding across 5
 
 An AI system that turns operator requests, enterprise documents, public standards, and video context into review-ready industrial work-instruction drafts — under mandatory expert approval. Sole developer.
 
-[![Procedra](https://raw.githubusercontent.com/skritosss/procedra-industrial-ai/main/docs/assets/screenshots/procedra-instruction-result.png)](https://github.com/skritosss/procedra-industrial-ai)
+[![Procedra](https://raw.githubusercontent.com/skritosss/procedra-industrial-ai/main/docs/assets/screenshots/procedra-desktop.png)](https://github.com/skritosss/procedra-industrial-ai)
 
 - FastAPI/Pydantic application end to end, from generation schemas and validation to JSON, Markdown, and PDF export.
 - Hybrid semantic/keyword retrieval with source-influence scoring, and durable video processing with keyframe extraction and frame-level vision analysis.
