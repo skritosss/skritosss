@@ -12,6 +12,8 @@ I came from the product and funding side: ~$76K in non-dilutive funding across 5
 
 An AI system that turns operator requests, enterprise documents, public standards, and video context into review-ready industrial work-instruction drafts — under mandatory expert approval. Sole developer.
 
+[![Procedra](https://raw.githubusercontent.com/skritosss/procedra-industrial-ai/main/docs/assets/screenshots/procedra-instruction-result.png)](https://github.com/skritosss/procedra-industrial-ai)
+
 - FastAPI/Pydantic application end to end, from generation schemas and validation to JSON, Markdown, and PDF export.
 - Hybrid semantic/keyword retrieval with source-influence scoring, and durable video processing with keyframe extraction and frame-level vision analysis.
 - Deterministic fallback that keeps the product fully usable without an external LLM.
@@ -41,14 +43,8 @@ Working paper on SSRN, Abstract ID `7026918`.
 | --- | --- |
 | [procedra-industrial-ai](https://github.com/skritosss/procedra-industrial-ai) | AI system for review-ready industrial work instructions: retrieval, video analysis, roles, versioning, audit trail |
 | [medai-case-study](https://github.com/skritosss/medai-case-study) | public AI product case study: architecture, process, privacy-aware product thinking, lessons learned |
-| [portfolio](https://github.com/skritosss/skritosss.github.io) | project portfolio, selected work, and professional overview |
-| [document-ai-lab](https://github.com/skritosss/document-ai-lab) | OCR, preprocessing, and document workflow experiments |
 | [engineering-drawing-ocr](https://github.com/skritosss/engineering-drawing-ocr) | limited-code OCR case study for technical drawings, preprocessing, and custom recognizer experiments |
-| [startup-research-toolkit](https://github.com/skritosss/startup-research-toolkit) | market research, competitor analysis, opportunity scoring, and startup decision tooling |
-| [ai-product-prototypes](https://github.com/skritosss/ai-product-prototypes) | compact AI workflow prototypes with product notes and structured requirements |
-| [data-workflow-utils](https://github.com/skritosss/data-workflow-utils) | parsing, cleaning, validation, and operational data utilities |
-
-Experimental side project: [one-line-courier](https://github.com/skritosss/one-line-courier).
+| [portfolio](https://github.com/skritosss/skritosss.github.io) | project portfolio, selected work, and professional overview |
 
 ### Education
 
