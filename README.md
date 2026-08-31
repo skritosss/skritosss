@@ -2,7 +2,7 @@
 
 **AI Product Engineer** — I take systems from architecture to a working product: retrieval, computer vision, role-based workflows, tests, CI.
 
-I came from the product and funding side: ~$76K in non-dilutive funding across 5 projects, listed author on registered MedAI software. That is why I build with provenance, review workflows, and audit trails.
+I came from the product and funding side: 6M RUB (~$70K) in non-dilutive funding across 5 projects, listed author on registered MedAI software. That is why I build with provenance, review workflows, and audit trails.
 
 [Portfolio](https://skritosss.github.io) · [Email](mailto:shuv.aleksandr@icloud.com) · [LinkedIn](https://www.linkedin.com/in/alex-shuvalov-4885a9387/) · [Repositories](https://github.com/skritosss?tab=repositories)
 
@@ -19,7 +19,7 @@ An AI system that turns operator requests, enterprise documents, public standard
 - Deterministic fallback that keeps the product fully usable without an external LLM.
 - Enterprise layer: 6 roles, organizations, projects, permission matrix, instruction versioning, review workflow, execution checklists, audit trail.
 - Security audit of my own system: found that adversarial context could be labelled as confirmed and score high. Introduced typed provenance, blocked model-supplied approval state, added explicit blockers for hazardous and poisoned-source cases.
-- Quality gate: 318 passing tests, clean mypy across 46 files, Ruff, Docker Compose, CI, and a 15-scenario pack for reproducible evaluation.
+- Quality gate: 406 passing tests, clean mypy across 46 files, Ruff, Docker Compose, CI, and a 15-scenario pack for reproducible evaluation.
 
 Working paper on SSRN, Abstract ID `7026918`.
 
@@ -34,7 +34,7 @@ Working paper on SSRN, Abstract ID `7026918`.
 ### Selected Impact
 
 - Took an AI decision-support tool for pediatric immunosuppressive therapy from concept to **registered software** in 18 months; listed as an author on the state registration certificate (MedAI).
-- Secured **~$76K in non-dilutive funding** across 5 early-stage digital products in medtech, edtech, tourism, social impact, and consumer technology.
+- Secured **6M RUB (~$70K) in non-dilutive funding** across 5 early-stage digital products in medtech, edtech, tourism, social impact, and consumer technology.
 - Owned research and grant work at an early-stage product studio: market research, competitor mapping, and market sizing that teams used to decide what to launch and what to cut from MVP scope.
 
 ### Public Work
@@ -50,8 +50,8 @@ Working paper on SSRN, Abstract ID `7026918`.
 
 - **MSc, Computer Science and Engineering** — South Ural State University, "Digital Ural" elite IT program · Sep 2025 – Present
 - **BSc, Architecture and Civil Engineering** — South Ural State University · 2021 – 2025
-- Finalist, "Startup as a Thesis" (SUSU) 2025 · Finalist, MSU Startup Accelerator 2024 · JPMorganChase job simulations on Forage 2026
-- Russian native · English B2
+- Finalist, "Startup as a Thesis" (SUSU) 2025 · Semi-finalist, MSU Startup Accelerator 2022 · JPMorganChase job simulations on Forage 2026
+- Russian native · English C1
 
 ### Toolbox
 
