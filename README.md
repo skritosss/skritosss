@@ -8,11 +8,31 @@ I came from the product and funding side: 6M RUB (~$70K) in non-dilutive funding
 
 ---
 
+<a href="assets/procedra-deck/procedra-deck-en.pdf">
+  <img alt="Procedra — AI drafts the work instruction, the engineer stays accountable" src="assets/procedra-deck/slide-01.png" />
+</a>
+
+<details>
+<summary><b>Procedra deck — 9 slides</b> (click to expand · <a href="assets/procedra-deck/procedra-deck-en.pdf">download PDF</a>)</summary>
+
+<br />
+
+<img alt="The problem: instructions are written by hand" src="assets/procedra-deck/slide-02.png" />
+<img alt="What Procedra does" src="assets/procedra-deck/slide-03.png" />
+<img alt="How it works" src="assets/procedra-deck/slide-04.png" />
+<img alt="Provenance and review" src="assets/procedra-deck/slide-05.png" />
+<img alt="Eight screens of the real interface" src="assets/procedra-deck/slide-06.png" />
+<img alt="Engineering quality" src="assets/procedra-deck/slide-07.png" />
+<img alt="Status and scope" src="assets/procedra-deck/slide-08.png" />
+<img alt="Contact" src="assets/procedra-deck/slide-09.png" />
+
+</details>
+
+---
+
 ### Currently building: [Procedra](https://github.com/skritosss/procedra-industrial-ai)
 
 An AI system that turns operator requests, enterprise documents, public standards, and video context into review-ready industrial work-instruction drafts — under mandatory expert approval. Sole developer.
-
-[![Procedra](https://raw.githubusercontent.com/skritosss/procedra-industrial-ai/main/docs/assets/screenshots/procedra-desktop.png)](https://github.com/skritosss/procedra-industrial-ai)
 
 - FastAPI/Pydantic application end to end, from generation schemas and validation to JSON, Markdown, and PDF export.
 - Hybrid semantic/keyword retrieval with source-influence scoring, and durable video processing with keyframe extraction and frame-level vision analysis.
