@@ -30,7 +30,7 @@ I came from the product and funding side: 6M RUB (~$70K) in non-dilutive funding
 
 ---
 
-### Currently building: [Procedra](https://github.com/skritosss/procedra-industrial-ai)
+### Currently building: [Procedra](https://github.com/skritosss/procedra-showcase)
 
 An AI system that turns operator requests, enterprise documents, public standards, and video context into review-ready industrial work-instruction drafts — under mandatory expert approval. Sole developer.
 
@@ -61,7 +61,7 @@ Working paper on SSRN, Abstract ID `7026918`.
 
 | Repository | What it shows |
 | --- | --- |
-| [procedra-industrial-ai](https://github.com/skritosss/procedra-industrial-ai) | AI system for review-ready industrial work instructions: retrieval, video analysis, roles, versioning, audit trail |
+| [procedra-showcase](https://github.com/skritosss/procedra-showcase) | AI system for review-ready industrial work instructions: retrieval, video analysis, roles, versioning, audit trail |
 | [medai-case-study](https://github.com/skritosss/medai-case-study) | public AI product case study: architecture, process, privacy-aware product thinking, lessons learned |
 | [engineering-drawing-ocr](https://github.com/skritosss/engineering-drawing-ocr) | limited-code OCR case study for technical drawings, preprocessing, and custom recognizer experiments |
 | [portfolio](https://github.com/skritosss/skritosss.github.io) | project portfolio, selected work, and professional overview |
