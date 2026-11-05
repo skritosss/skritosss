@@ -2,7 +2,7 @@
 
 **AI Product Engineer** · Applied AI, backend systems, and product development
 
-I build AI-assisted software around real workflows: working with documents, retrieving relevant context, and turning model output into something people can review and use.
+I build document-intensive AI workflows with structured output, source traceability, and human review.
 
 My background combines hands-on engineering with product research, startup operations, and grant-backed development.
 
@@ -24,18 +24,14 @@ The engineering focus is traceability: keeping input claims distinct from verifi
 
 [Product overview](https://github.com/skritosss/procedra-showcase) &nbsp; / &nbsp; [Presentation](assets/procedra-deck/procedra-deck-en.pdf) &nbsp; / &nbsp; [Working paper](https://ssrn.com/abstract=7026918)
 
-<details>
-<summary>View the product interface</summary>
-<br />
+![Procedra: task input and a structured instruction draft](https://raw.githubusercontent.com/skritosss/procedra-showcase/main/assets/generator.jpg)
 
-![Procedra: generation, claim provenance, review, editing, and version history](assets/procedra-deck/slide-06.png)
-
-</details>
+[Explore the interface](https://skritosss.github.io/procedra/) · Actual application screens with synthetic demo content; not a production deployment.
 
 | Project | Focus |
 | :--- | :--- |
-| **[Engineering Drawing OCR](https://github.com/skritosss/engineering-drawing-ocr)** | Contributed to text recognition on technical drawings: preprocessing, recognizer experiments, and evaluation. Selected reference code and technical notes. |
 | **[MedAI](https://github.com/skritosss/medai-case-study)** | Co-founder experience spanning product architecture, analytics, partner communication, and grant work. Public case study of a private healthtech prototype. |
+| **[Engineering Drawing OCR](https://github.com/skritosss/engineering-drawing-ocr)** | Contributed to text recognition on technical drawings: preprocessing, recognizer experiments, and evaluation. Runnable synthetic preprocessing demo, tests, and selected reference code. |
 
 ## Open Source
 
