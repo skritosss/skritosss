@@ -6,12 +6,14 @@ I came from the product and funding side: 6M RUB (~$70K) in non-dilutive funding
 
 [Portfolio](https://skritosss.github.io) · [Email](mailto:shuv.aleksandr@icloud.com) · [LinkedIn](https://www.linkedin.com/in/alex-shuvalov-4885a9387/) · [Repositories](https://github.com/skritosss?tab=repositories)
 
-**[8 merged pull requests across 5 open-source repositories](https://github.com/pulls?q=is%3Apr+author%3Askritosss+is%3Amerged)** · [5 open pull requests](https://github.com/pulls?q=is%3Apr+author%3Askritosss+is%3Aopen) · verified November 4, 2026.
+**[10 merged pull requests across 7 open-source repositories](https://github.com/pulls?q=is%3Apr+author%3Askritosss+is%3Amerged)** · [3 open pull requests](https://github.com/pulls?q=is%3Apr+author%3Askritosss+is%3Aopen) · verified November 5, 2026.
 
 ### Open Source Contributions
 
 | Project | Accepted contributions |
 | --- | --- |
+| **Mellea** | Hardened release-dispatch version validation and literal payload handling: [#1731](https://github.com/generative-computing/mellea/pull/1731) |
+| **Autosubmit** | Documented YAML folder loading, ordering, and configuration overrides: [#3354](https://github.com/BSC-ES/autosubmit/pull/3354) |
 | **Backlot** | GitHub API pagination and version-header handling; HubSpot object-type IDs: [#686](https://github.com/brekkylab/backlot/pull/686), [#817](https://github.com/brekkylab/backlot/pull/817), [#848](https://github.com/brekkylab/backlot/pull/848) |
 | **Agent Swarm** | Consistent parsing of provider and integration environment flags: [#2096](https://github.com/desplega-ai/agent-swarm/pull/2096), [#2097](https://github.com/desplega-ai/agent-swarm/pull/2097) |
 | **Ansible ClickHouse** | Corrected community communication links: [#255](https://github.com/ansible-collections/community.clickhouse/pull/255) |
